@@ -5,3 +5,9 @@
 ## Índice
 
 ### Tecnologias
+* HMTL5
+* CSS3
+* Bootstrap
+* Git & Github
+
+## Autoria
